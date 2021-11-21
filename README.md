@@ -15,7 +15,7 @@
   - ![50%](https://progress-bar.dev/0)
 - MATEMÁTICA 
   - ![50%](https://progress-bar.dev/0)
-- PARADGMAS 
+- PARADIGMAS 
   - ![50%](https://progress-bar.dev/0)
 - GRAFOS 
   - ![50%](https://progress-bar.dev/0)
