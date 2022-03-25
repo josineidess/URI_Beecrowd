@@ -1,7 +1,16 @@
-#bugado o submit
+#include <iostream>
 
-valor = int(input(""))
+using namespace std;
 
-for e in range(1,1000):
-  if(e%valor == 2):
-    print(e)
+int main()
+{
+   int n;
+   cin >> n;
+   for(int e = 1; e < 10000; e++){
+       if(e % n == 2){
+          cout << e << endl;
+       }
+   }
+
+   return 0;
+}
